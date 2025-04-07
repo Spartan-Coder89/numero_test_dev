@@ -1,5 +1,7 @@
 # Numero Application Assessment
 
+## White Stone Group Custom Wordpress Theme
+
 ## Development Steps:
 1. Assess provided design. Assume how each section of the design can be developed.
 2. Extract design assets. Make sure they are of proper size to avoid or lessen adjustments on assets itself.
